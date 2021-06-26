@@ -1,7 +1,6 @@
 module.exports = {
-  clientID:
-    "1047385345713-rn48m7521o8mvprv3vv1snpshhp3ej5i.apps.googleusercontent.com",
-  clientSecret: "j70asad6JEE7nK-ElAT_RTrb",
-  mongoURI: "mongodb://testing:testing09@ds225294.mlab.com:25294/testing",
+  clientID: "14385298269-4jdmhbffvqpcncorcrm628qo1jcd2fk5.apps.googleusercontent.com",
+  clientSecret: "CYHozFnhAn7w3jUebo-fkZM_",
+  mongoURI: "mongodb+srv://dbUser:dbUser@cluster0.wbdx5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   cookie: "fedfedwfwedfedwfwedfewferwgf"
 };
